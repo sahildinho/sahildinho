@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with deeplearning
 - 💬 Ask me about image processing
 - 📫 How to reach me: Email ID : sahilchoudhari5551@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
